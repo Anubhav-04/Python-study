@@ -1,0 +1,21 @@
+# WAP in python to enter eight numbers and print the unique numbers
+
+s = set()
+n = input("Enter number : ")
+s.add(int(n))
+n = input("Enter number : ")
+s.add(int(n))
+n = input("Enter number : ")
+s.add(int(n))
+n = input("Enter number : ")
+s.add(int(n))
+n = input("Enter number : ")
+s.add(int(n))
+n = input("Enter number : ")
+s.add(int(n))
+n = input("Enter number : ")
+s.add(int(n))
+n = input("Enter number : ")
+s.add(int(n))
+print(s)
+

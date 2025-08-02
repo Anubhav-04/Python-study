@@ -1,0 +1,10 @@
+a=1
+b=2
+name="Anubhav"
+c=22.45
+d=True
+print(a)
+print(b)
+print(c)
+print(name)
+print(d)

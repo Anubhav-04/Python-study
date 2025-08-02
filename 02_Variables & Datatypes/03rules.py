@@ -1,0 +1,11 @@
+print('''
+    RULES FOR WRITING A VARIABLE
+      1. A VARIABLE CAN ON CONTAIN ALPHABETS, DIGITS AND UNDERSCORE
+        EXAMPLES :- name, name44, name_, _name
+      2. A VARIABLE CAN ONLY START WITH ALPHABETS OR UNDERSCORE
+        EXAMPLES :- name, name44, name_, _name
+      3. A VARIABLE CANNOT START WITH A NUMBER OR A DIGIT
+        EXAMPLE :- 4name this is wrong.
+      4. NO WHILE SPACE IS ALLOWED TO BE USED IN A VARIABLE NAME
+        EXAMPLE :- na me this is wrong
+      ''')
